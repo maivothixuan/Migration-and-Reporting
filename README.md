@@ -28,6 +28,10 @@ Scalability: Handling large volumes of diverse data sources.
    * Data Transformation: Utilized Databricks for data cleaning, transformation, and integration, preparing data for efficient reporting.
      
 **2. Database Design:**
+!<p align="center">
+  <img src="image.png" />
+<em>High Level Architecture</em>
+</p>
    * Schema Implementation: Created star and snowflake schemas in Azure SQL Server to streamline query performance and facilitate faster data retrieval.
 
 **3. Power BI Optimization:**
